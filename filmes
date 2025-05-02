@@ -1,0 +1,15 @@
+{
+  "movies": [
+    {
+      "title": "Duna: Parte Dois",
+      "tmdb_id": "693134",
+      "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EXEMPLO1",
+      "poster": "https://image.tmdb.org/t/p/w500/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/6Onoquk1zQzKKYeEgfOC5y1pLmi.jpg",
+      "rating": 8.8,
+      "year": 2024,
+      "genres": "Ficção científica, Ação, Aventura",
+      "duration": 166
+    }
+  ]
+}
