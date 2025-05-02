@@ -1,15 +1,1604 @@
 {
   "movies": [
     {
-      "title": "Duna: Parte Dois",
-      "tmdb_id": "693134",
-      "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EXEMPLO1",
-      "poster": "https://image.tmdb.org/t/p/w500/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/original/6Onoquk1zQzKKYeEgfOC5y1pLmi.jpg",
-      "rating": 8.8,
+      "title": "A História de Fátima",
+      "year": 2021,
+      "description": "Separados por 1400 anos, um garoto iraquiano, em um país devastado pela guerra nas mãos do Estado Islâmico, descobre a importância e o poder da paciência. Após perder a mãe, o jovem ganha um novo lar, onde uma amorosa avó narra a história da Senhora e o seu sofrimento como a primeira vítima do terrorismo, que tomaria grandes proporções no século XXI.",
+      "poster": "https://image.tmdb.org/t/p/original/j7pZEzOKDGalpH5fTWZnVO9yKLV.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Bem-Vindo ao Círculo",
+      "year": 2020,
+      "description": "Após serem atacados por um urso enquanto acampavam na floresta, um pai e sua filha acabam presos em um misterioso culto conhecido como O Círculo.",
+      "poster": "https://image.tmdb.org/t/p/original/dvnBcWKW9j681cTGuGWQgVdoE8H.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Vingança Acima da Lei",
+      "year": 2023,
+      "description": "Um agente da Interpol persegue o líder de um sindicato do crime até Las Vegas, mas, quando sua esposa e filha são brutalmente assassinadas pela organização criminosa, ele resolve ultrapassar os limites da lei em uma busca implacável por vingança.",
+      "poster": "https://image.tmdb.org/t/p/original/9hUxl6MLzndYfVOX1kpylE2cQ11.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Atentado em Oklahoma - Terror nos EUA",
+      "year": 2025,
+      "description": "Este documentário eletrizante analisa a explosão de um prédio em Oklahoma em 1995, o atentado de terrorismo doméstico mais letal da história dos EUA.",
+      "poster": "https://image.tmdb.org/t/p/original/ml3rgtf0RD4VFcEZyyqwEFWOlfB.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "A Barbárie",
+      "year": 2023,
+      "description": "Nacho é um jovem que está cansado de sofrer maus-tratos na casa de sua mãe e decide ir morar na fazenda de seu pai. Ele precisará entender o seu lugar como filho do patrão em um mundo repleto de ódio, violência e conflitos sociais.",
+      "poster": "https://image.tmdb.org/t/p/original/hIpVLbts9QKGkRJreMtVegq9akh.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Better Man - A História de Robbie Williams",
+      "year": null,
+      "description": "Cinebiografia do cantor britânico Robbie Williams, representado como um macaco de maneira a refletir como o próprio astro se viu durante muito tempo na sua carreira. O longa conta a história da ascensão, queda e a ressurreição inesperada do cantor, que hoje é consagrado como um dos artistas britânicos mais vendidos de todos os tempos.",
+      "poster": "https://media.themoviedb.org/t/p/w500/qwYFlBvpplkFsVScrNTGsV0e0L7.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "OP 01  1080p"
+    },
+    {
+      "title": "Attack on Titan - O Último Ataque",
       "year": 2024,
-      "genres": "Ficção científica, Ação, Aventura",
-      "duration": 166
+      "description": "O filme reúne os dois últimos episódios da aclamada série de anime em uma experiência cinematográfica, entregando o épico final em um filme de tamanho colossal. A humanidade vivia tranquilamente atrás de enormes muros construídos para protegê-los da ameaça de criaturas monstruosas chamadas Titãs. Seu século de paz foi destruído por um ataque à sua cidade que deixou uma criança, Eren Jaeger, sem mãe e jurando vingança contra os Titãs. Anos após se juntar à Tropa de Exploração, Eren se vê diante de um inimigo mortal e, finalmente, ganha uma habilidade especial que revela uma nova verdade sobre o mundo que ele conhece... Depois de se aventurar além dos muros e separado de seus camaradas, Eren se encontra inspirado por essa nova verdade e planeja o Rugido, um plano terrível para erradicar todos os seres vivos do mundo. Com o destino do mundo em jogo, uma equipe heterogênea de antigos camaradas e inimigos de Eren se unem para deter sua missão mortal. A única pergunta é: eles podem detê-lo?",
+      "poster": "https://image.tmdb.org/t/p/original/rSeFqgr6RibIxonuTHUeaj44shq.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Último Alvo",
+      "year": 2024,
+      "description": "Um velho ex-boxeador gangster que trabalha como músculo para um chefe do crime de Boston recebe um diagnóstico perturbador. Apesar de uma memória vacilante, ele tenta retificar os pecados de seu passado e se reconectar com seus filhos afastados. Ele está determinado a deixar um legado positivo para seu neto, mas o submundo do crime não acabou com ele e não vai afrouxar seu controle de bom grado.",
+      "poster": "https://image.tmdb.org/t/p/original/7bIWKyWdT04HTY3PqLETT8CH7jo.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Todo Mundo - Ainda Tem Problemas Sexuais",
+      "year": 2025,
+      "description": "Quatro histórias curtas, independentes, trazem as delícias e dificuldades dos relacionamentos amorosos. Uma comédia sobre curiosidades, inseguranças, desejos sexuais, sem pudores, mas com todo o resto: infidelidade, ciúmes, drama e muito humor e amor. Baseado na obra de Domingos Oliveira.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/6QzSF3UuTOys8CvnIJWeUGDDXgf.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "O Homem-Cão",
+      "year": 2025,
+      "description": "Quando um fiel cão da polícia e seu dono, um oficial dedicado, são feridos juntos em ação no trabalho, uma cirurgia de última hora, mas salva vidas, funde os dois e dá origem ao Homem-Cão - que fez o juramento de proteger e servir os cidadãos... e correr, se sentar e rolar por aí.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/iBZlbYSVOYjBJDwg4D3bcK0hE8F.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "O Maravilhoso Mágico de Oz - Parte 1",
+      "year": null,
+      "description": "Levada por um furacão a um mundo mágico e desconhecido, Ellie decide seguir a estrada de tijolos amarelos rumo à Cidade Esmeralda, onde acredita que o poderoso Mágico poderá ajudá-la a voltar para casa. No caminho, ela encontra grandes amigos: o Espantalho, que sonha em ter um cérebro; o Homem de Lata, que deseja um coração; e o Leão Covarde, que busca coragem. Juntos, eles enfrentam desafios em uma história encantadora que celebra a amizade, a coragem e a força dos sonhos.",
+      "poster": "https://media.themoviedb.org/t/p/w500/s4pK8Cpna56SbYbmFGgKyBvLj7A.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "OP 01  1080p"
+    },
+    {
+      "title": "Mickey 17",
+      "year": 2025,
+      "description": "A adaptação do romance de ficção científica de Edward Ashton segue a história de Mickey 17, um dispensável, que é um funcionário descartável em uma expedição humana enviada para colonizar o mundo gelado de Niflheim. Depois que uma iteração morre, um novo corpo é regenerado com a maioria de suas memórias intactas.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/rqMl7ngnuRM4ZltatYQeSArG7gM.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Desafios",
+      "year": 2025,
+      "description": "Durante uma partida histórica de críquete, três pessoas comuns precisam tomar decisões que podem não ter volta.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/4a9LbItyOb9K9VFXtbLR87Hj4uA.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "O Brutalista",
+      "year": 2025,
+      "description": "Quando o arquiteto visionário László Toth e sua esposa Erzsébet fogem da Europa do pós-guerra em 1947 para reconstruir seu legado e testemunhar o nascimento da América moderna, suas vidas são mudadas para sempre por um cliente misterioso.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/tsVRsCGJ4bZG1xWfQkUgt71ystL.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "DJ à Paisana",
+      "year": 2025,
+      "description": "Recrutado pela polícia para ajudar a desmantelar uma gangue ligada ao seu rival, um DJ em decadência vê nisto uma chance de voltar ao topo em grande estilo.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/gspluUUTwGMT33rR6YietqRIjok.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "One Chicago Crossover",
+      "year": 2025,
+      "description": "Quando uma explosão de gás abala um arranha-céu, os socorristas de Chicago saem para resgatar centenas de civis. No entanto, é a calamidade abaixo da superfície que leva nossos heróis a uma corrida para salvar 40 pessoas presas no subsolo, incluindo duas delas.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/6VMudwS53McycrJ4ltYEBThuQ9O.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Corações prometidos",
+      "year": 2025,
+      "description": "Drama indonésio que mergulha em um conflito entre tradição e liberdade pessoal. A trama acompanha Niyala, uma jovem que finalmente conquista seu sonho de se tornar médica, mas vê sua vida virar de cabeça para baixo quando é forçada a aceitar um casamento arranjado com uma família rica. Enquanto lida com pressões familiares e tenta preservar sua identidade, ela se vê diante de escolhas difíceis que podem mudar seu destino para sempre. Com uma história envolvente e cheia de emoção, o filme traz uma reflexão intensa sobre amor, dever e autonomia.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/5w4tc7RJOT104dHXQUla5xRQVPT.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Mufasa - O Rei Leão",
+      "year": 2024,
+      "description": "Mufasa, um filhote órfão, perdido e sozinho, conhece um simpático leão chamado Taka, herdeiro de uma linhagem real. O encontro ao acaso dá início a uma grande jornada de um grupo extraordinário de deslocados em busca de seu destino, além de revelar a ascensão de um dos maiores reis das Terras do Orgulho.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/iMVuv6Gz5fj7vZ51IjRF3AiW87y.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Vidro Fumê",
+      "year": 2024,
+      "description": "Mary uma estrangeira morando no Rio de Janeiro, sofre um sequestro relâmpago com o namorado, ela passa a enfrentar uma noite de terror sob o controle de seus sequestradores dentro de uma van que circula pela cidade.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/7IqRgkMnsQpuOLZmn7z8bkxAUQf.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "A Maldição da Fazenda Grady",
+      "year": 2020,
+      "description": "Emily Wolf é a apresentadora de um programa de viagens onde documenta supostos locais mal-assombrados ao redor do país. O destino do seu próximo episódio acontece na Flórida rural, onde ela e os antigos amigos de faculdade do seu diretor de fotografia vivem.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/fja6GIKIhgH0z27j49v5OIOApkg.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Blindado",
+      "year": 2025,
+      "description": "Um pai e um filho que trabalham como guardas de segurança de uma empresa de caminhões blindados são atacados por uma equipe de ladrões profissionais durante um transporte de valores. Eles ficam presos numa ponte isolada e precisam bolar um plano para escapar e garantir sua sobrevivência.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/cuZ6rE4yYVdzG4L2rtnEZEt3fvR.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "A Lista da Minha Vida",
+      "year": 2025,
+      "description": "A pedido da mãe falecida, uma jovem embarca em uma viagem de autodescoberta para realizar uma lista de desejos que escreveu na adolescência. Nessa jornada complexa de amadurecimento, ela precisará enfrentar o luto e encontrar a coragem para voltar a curtir a vida.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/2zrVB7SQe9UZNRABpca66lObH0n.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Mestres do Assalto",
+      "year": 2025,
+      "description": "De dia, eles são invisíveis: manobristas, hostess e barmen em um hotel de luxo. À noite, são os Mestres do Assalto, um grupo de motoristas talentosos que persegue e rouba clientes ricos na estrada. Ao planejarem o maior dos golpes, o diretor do hotel contrata um matador para pará-los a qualquer custo. Com o perigo se aproximando, Nora, Zoe, Steve e Prestance conseguirão realizar o serviço?",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/9AzMgk6HVqwqTmAbzAuD8fVmnOd.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Alexandre e a Viagem Terrível, Horrível, Espantosa e Horrorosa",
+      "year": 2025,
+      "description": "A história de um garoto de onze anos chamado Alexander e sua família, que embarcam em uma viagem de férias dos sonhos para a Cidade do México, só para tudo dar errado quando descobrem um totem amaldiçoado.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/rGBR0j4nbE07HJdpjQikmoWnUZY.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Last Breath",
+      "year": 2025,
+      "description": "Baseado no documentário Last Breath de 2019.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/920sg6Ok8byvLGRfEVv68JTHSPP.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Amor Bandido - Love Hurts Completo",
+      "year": 2025,
+      "description": "Um corretor de imóveis é puxado de volta para a vida que deixou para trás depois que seu antigo parceiro no crime ressurge com uma mensagem sinistra. Com seu irmão chefe do crime também em seu encalço, ele deve confrontar seu passado e a história que ele nunca enterrou completamente.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/us125MW4IQOiGbnl77NgOJVEgMn.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Batman Ninja vs A Liga Yakuza",
+      "year": 2025,
+      "description": "Sequência de Batman Ninja (2018). Estúdio: Kamikaze Douga.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/E0Kfd0UsphezvdhLVNtOTXzOLT.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Adeus, Paris",
+      "year": 2022,
+      "description": "Após o confinamento, oito velhos amigos encontram seus hábitos em um bar com charme eterno.",
+      "poster": "https://image.tmdb.org/t/p/original/oD25U6BtXR0DZAdd7RsJyq9Nzqk.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Como Conseguir Um Homem em 12 Dias",
+      "year": 2022,
+      "description": "A treinadora de encontros e aspirante a autora de livros, Abigale Slater, é incumbida por seu editor Jack de provar que seus conselhos sobre namoro realmente funcionam. Com isso, ela decide fazer um homem se apaixonar por ela na véspera de Natal em 12 dias.",
+      "poster": "https://image.tmdb.org/t/p/original/tAFjLibhlZbTbMcgMUbW9yxaniE.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Sem Medo de Amar",
+      "year": 2023,
+      "description": "Após o confinamento, oito velhos amigos encontram seus hábitos em um bar com charme eterno.",
+      "poster": "https://image.tmdb.org/t/p/original/ape2o0FE8YAIqAcmX0alrbsBmC3.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Fora dos Muros da Escola II",
+      "year": 2023,
+      "description": "Yard é um jovem traficante de drogas, membro de uma família que foi duramente afetada pela guerra entre duas gangues rivais. Agora ele busca uma maneira de se vingar, sem pensar nas consequências de seus atos.",
+      "poster": "https://image.tmdb.org/t/p/original/vA5klcvvxpRDBG3zBW3Nh8UHcWQ.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Last Breath",
+      "year": 2025,
+      "description": "Baseado no documentário Last Breath de 2019.",
+      "poster": "https://image.tmdb.org/t/p/original/920sg6Ok8byvLGRfEVv68JTHSPP.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Chico Bento e a Goiabeira Maraviósa",
+      "year": 2025,
+      "description": "Chico Bento leva uma vida tranquila na Vila Abobrinha, rodeado de seus amigos e goiabas, até que a construção de uma estrada nas terras de seu Nhô Lau ameaça sua goiabeira e mobiliza toda a turma.",
+      "poster": "https://image.tmdb.org/t/p/original/A4VMeHcjA1apWlJ6au5L84maWoj.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "MMA - Meu Melhor Amigo",
+      "year": 2025,
+      "description": "Max, um campeão de MMA em fim de carreira, descobre ser pai de um menino autista de 8 anos. Enquanto se aproxima do filho, tem a sua última chance de uma volta ao ringue.",
+      "poster": "https://image.tmdb.org/t/p/original/9rjBOZvPK5E8l4IiO0QP5UZrTg0.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Pequena Sibéria",
+      "year": 2025,
+      "description": "A fé de um pastor é colocada à prova quando um meteorito cai na cidadezinha onde ele mora, na Finlândia, provocando um caos e desencadeando crimes.",
+      "poster": "https://image.tmdb.org/t/p/original/uIgwLgltdbJtJHwkemdl32w27Ye.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "O Menino que Descobriu o Vento",
+      "year": 2019,
+      "description": "William Kamkwamba (Maxwell Simba) é um garoto de 13 anos que sai da escola que ama quando sua família não pode mais pagar pelos custos. Voltando em segredo para a biblioteca da escola, ele encontra um caminho, usando partes da bicicleta pertencente ao seu pai Trywell (Chiwetel Ejiofor), para construir um moinho que, em seguida, salva sua aldeia da fome. A viagem emocional de um pai e seu filho excepcional em seu coração, captura a determinação incrível de um menino cuja mente inquisitiva superou todos os obstáculos em seu caminho.",
+      "poster": "https://image.tmdb.org/t/p/original/haUdPprsRrN7YkgC1adh9YvnqvR.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 720"
+    },
+    {
+      "title": "O’Dessa",
+      "year": 2025,
+      "description": "Situado em um futuro pós-apocalíptico, o filme acompanha uma garota da fazenda em sua tentativa de recuperar uma herança de família. Sua jornada a leva a uma cidade estranha e perigosa na qual ela encontra seu verdadeiro amor — contudo, para salvar a alma dele, ela deve colocar o poder do destino e da música à prova.",
+      "poster": "https://image.tmdb.org/t/p/original/xkzpIeddL6pfgVEp5pCXDH72l3w.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Ainda Estou Aqui",
+      "year": null,
+      "description": "No início da década de 1970, o Brasil enfrenta o endurecimento da ditadura militar. No Rio de Janeiro, a família Paiva – Rubens, Eunice e seus cinco filhos – vive à beira da praia em uma casa de portas abertas para os amigos. Um dia, Rubens Paiva é levado por militares à paisana e desaparece.",
+      "poster": "https://media.themoviedb.org/t/p/w500/zNAw7jK8bwCK56rIW676pdgkwhd.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "OP 01  1080p"
+    },
+    {
+      "title": "10 Regras Para Salvar um Casamento",
+      "year": null,
+      "description": "Marie e Simon vivem um casamento caótico, marcado por discussões e desafios na criação dos filhos. Apesar de não se suportarem mais, eles lutam para manter a união e criam dez mandamentos para alcançar a paz e o amor na relação.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/rcmoIeno4fh6QnNmg93TVNq8aj.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "O Mal Mora Aqui",
+      "year": 2024,
+      "description": "Acompanha um casal em busca de emoções fortes que tem como alvo uma casa mal-assombrada e passa por vários incidentes enquanto testemunham uma família enlouquecendo.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/y7nz1uSQt3J6i2fDdebukK1V1Ep.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "O Fogo Interior",
+      "year": 2025,
+      "description": "Claressa Shields, uma estudante do ensino médio de Flint, Michigan, auxiliada por seu treinador, Jason Crutchfield, supera todas as limitações para se tornar a primeira mulher americana a ganhar uma medalha de ouro olímpica no boxe. Mas mesmo no auge do sucesso, Claressa tem que contar com o fato de que nem todos os sonhos são criados iguais e a verdadeira luta apenas começou.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/rmIcnSRl65AUa8TJMCJZV2RL4z1.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Paddington - Uma Aventura Na Floresta",
+      "year": 2025,
+      "description": "Paddington retorna ao Peru para visitar sua amada Tia Lucy. Com a família Brown a tiracolo, uma aventura emocionante começa quando um mistério os mergulha em uma jornada inesperada.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/4f9U6siGuXOcnF2D6CWooSbGhHu.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "A Última Showgirl",
+      "year": 2025,
+      "description": "Uma dançarina experiente precisa repensar o futuro quando seu show termina abruptamente após 30 anos de exibição. Como dançarina na casa dos cinquenta anos, ela luta para decidir o que fazer a seguir. Como mãe, se esforça para reparar um relacionamento tenso com a filha, que muitas vezes ficava em segundo plano em relação à família de dançarinas.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/jhiOlQr4SQ2ZfmRuNtNguRNcCDi.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Anora",
+      "year": 2024,
+      "description": "O filme narra a história de Anora, uma jovem trabalhadora do sexo do Brooklyn, que ganha sua chance de viver uma história de Cinderella após conhecer e se casar com o filho de um oligarca. No entanto, seu conto de fadas se vê ameaçado quando a notícia chega à Rússia e os sogros da jovem embarcam para Nova York para anular o matrimônio.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/xmFdNzbUiT5XmH6rbIVGYDQHGeo.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Caos - Os Crimes de Manson",
+      "year": 2025,
+      "description": "Agosto de 1969: seguidores de Charles Manson matam sete pessoas a mando dele. Mas por quê? Explore uma história sobre controle mental, experimentos da CIA e assassinato.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/wvM4FDKDfeUFZnf6RGOLRMzT6zf.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Plankton - O Filme",
+      "year": 2025,
+      "description": "Após mais um de seus planos malignos dar errado, a Fenda do Biquíni e a superfície estão nas mãos de uma ameaça inimaginável. Agora, se quiser dominar o mundo, Plankton primeiro vai ter que salvar o dia.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/xODFawcWmxx2vn7rCw3KrdZmtmy.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Delicious",
+      "year": 2025,
+      "description": "Uma família alemã que estava de férias em uma vila francesa encontra uma misteriosa mulher ferida e a acolhe, o que causa consequências imprevistas.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/3W1PZYEiDXWLLjLCMUbRPfjHxmq.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Namorado contratado",
+      "year": 2025,
+      "description": "Uma patricinha de Deli, um cara talentoso de classe média e um plano ousado: contratá-lo como seu namorado de mentira para ela não perder as amizades. Quando os sentimentos começarem a brotar de verdade, será que eles vão saber lidar com o caos da paixão?",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/AnS9KBzGiSUNGbNAPiI8zKe90YQ.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Priscilla",
+      "year": 2023,
+      "description": "Baseado no livro de memórias Elvis e Eu, publicado em 1985, que traz o relato íntimo de Priscilla Presley sobre sua vida com Elvis.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/uDCeELWWpsNq7ErM61Yuq70WAE9.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Santosh - Vozes da Hierarquia",
+      "year": 2024,
+      "description": "Numa região rural do norte da Índia, Santosh, uma jovem viúva, herda o cargo policial do marido. Quando uma menina de casta inferior é encontrada assassinada, Santosh se envolve na investigação ao lado da Inspetora Sharma, uma figura carismática que a aconselha. À medida que se aprofundam no caso, Santosh confronta as complexidades da dinâmica das castas e as duras realidades da justiça na sua comunidade.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/5qkog1Esn1OKOoreg42Z1mIP0Fw.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Não Me Abandone",
+      "year": 2023,
+      "description": "Parker e Madeline são recém-casados que acabaram de se mudar para uma antiga casa e descobrem uma coleção de cartas de uma mulher que cometeu suicídio após ser abandonada pelo seu amante. Enquanto Parker passa a ser aterrorizado pela presença dessa misteriosa mulher, Madeline começa a suspeitar que ele está escondendo algo de seu passado.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/234h9O3wS5vtE7KQKZgibTTxvBz.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Uma Casa Sem Saída",
+      "year": 2023,
+      "description": "Durante uma viagem de negócios, uma mulher aluga uma casa em uma cidade-fantasma do Arizona. Mas ela logo descobre que a casa é amaldiçoada e se transforma em um labirinto, impedindo a fuga de seus visitantes.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/lXp4JIHNHf1vO5qcV0ISfwd0pG0.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Pesadelos Macabros",
+      "year": 2022,
+      "description": "Consumida pela depressão, Wanda decide participar de um estudo que induz paralisia do sono nos participantes. No entanto, a pesquisa toma um rumo sombrio quando todos começam a ter as mesmas visões e a desaparecer misteriosamente.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/fBLxOJiQUaVh8y9yrlBkcXHNBGM.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "A Melhor Noite de Nossas Vidas",
+      "year": 2023,
+      "description": "Ruby esperava ser pedida em casamento, mas o seu namorado decide terminar com tudo. Suas melhores amigas acham que ela precisa sair para se divertir e promovem uma noite da qual elas jamais se esquecerão.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/eOFlD6pPtpeaZUfVxBL4KjdM2Un.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Covil de Ladrões 2",
+      "year": 2025,
+      "description": "A sequencia começa com Big Nick rastreando bandidos nas ruas da Europa e se aproximando de capturar Donnie (Jackson). Donnie, entretanto, ficou preso no perigoso mundo dos ladrões de diamantes e a máfia Panther, como um choque na maior troca de diamantes do mundo está sendo planejado.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/lwU8lY65QqcLOTVlZvL4Dse1h69.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Fogo Cruzado",
+      "year": 2023,
+      "description": "Tendo assumido o controle de uma prisão de segurança máxima, um gênio do crime enfrenta um agente aposentado da Black Ops que estava visitando seu filho encarcerado.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/dhaGhcXPjPTLo1BqAcqOKp4mD5U.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Barbie e Teresa - Receita Para Amizade",
+      "year": 2025,
+      "description": "Um grupo de amigas ajuda Teresa a recriar uma querida receita de família para a inauguração do restaurante da prima dela em Nova York.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/uDVsBMUE3QI0lZE44vfqpIojqRg.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Aos Nossos Filhos",
+      "year": 2022,
+      "description": "O conflitos de duas gerações, quando a filha conta para a mãe que terá um filho através da barriga da sua companheira, com quem vive há 15 anos.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/yJvvPr8pc35tYPZ8VZUiy98OVLv.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Queimando o Filme",
+      "year": 2025,
+      "description": "Quando um guru espiritual prevê que a solteira Pia Pia (Simone Ashley) encontrará o amor de sua vida, entre os próximos cinco encontros que ela tiver, sua família intervém, configurando-a para uma série de encontros às cegas cada vez mais desesperadores.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/6EIfh5Raw2Eil36dsYvkrVNvBWd.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Larissa - O Outro Lado de Anitta",
+      "year": 2025,
+      "description": "Anitta x Larissa. Larissa: O Outro Lado de Anitta conta a história e os conflitos de Larissa de Macedo Machado — cantora, compositora, atriz e empresária — também conhecida pelo nome artístico Anitta.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/e1znkPMVSZv44DfRMeTrQ6G6Da2.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Maria Callas",
+      "year": 2024,
+      "description": "Maria Callas, a maior cantora de ópera do mundo, vive os últimos dias de sua vida na Paris dos anos 1970, enquanto se confronta com a sua identidade e vida.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/bvwkLv20GrNIU7WSjCcpJVKxFUc.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Saturday Night - A Noite Que Mudou a Comédia",
+      "year": 2024,
+      "description": "Às 23h30 do dia 11 de outubro de 1975, um grupo de jovens comediantes e escritores mudou a televisão — e a cultura — para sempre. O filme é baseado na história verdadeira do que aconteceu nos bastidores durante os 90 minutos que antecederam a primeira transmissão do Saturday Night Live.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/eCg3r4k0KUD5aEeWANw9P1fawAJ.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "A Influencer Divina",
+      "year": 2023,
+      "description": "Uma influenciadora rica de 20 e poucos anos, perde o apoio financeiro dos pais e consegue um emprego em um abrigo para moradores de rua pelos motivos errados. No entanto, ela logo descobre o verdadeiro significado da influência.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/saP1nYtwwp9umyHeUUSKNyuBLbj.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Cúpula do Caos",
+      "year": 2024,
+      "description": "Os líderes de sete democracias ricas se perdem na floresta enquanto redigem uma declaração sobre uma crise global, enfrentando perigos enquanto tentam encontrar uma saída.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/zbI8Xc44P0KgNANNABenekOrM9q.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Carcaça",
+      "year": 2025,
+      "description": "DURANTE Uma pandemia, Uma Jovem Descobre O Segredo Sombrio de Seu Parceiro Possessivo, Desencadeanda Uma Luta Desperada por Liberdade.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/kAZAt4qEOeBsprW0QwrArqe417W.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Jogo de Sacrifício",
+      "year": 2023,
+      "description": "Já é ruim o suficiente para as alunas do internato Samantha e Clara não poder ir para casa nas férias, mas as coisas tomam um rumo mortal quando uma gangue assassina chega à sua porta - bem a tempo do Natal.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/n1cGwzuSi3bBKscH9axAJOQgXUq.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Calígula - O Corte Final",
+      "year": 2024,
+      "description": "Após 43 anos, Calígula  O Corte Final traz a visão original do épico de 1980. Com cenas inéditas de 1976, a versão explora a jornada de Calígula, que assume o Império Romano e sucumbe à corrupção e loucura. Esta reconstrução resgata as performances completas de McDowell e Helen Mirren, com cenários exuberantes do ganhador do Oscar, Danilo Donati. Um retrato poderoso sobre o impacto destrutivo do poder.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/3LPCnIz0zaBfthw2S5PyJg87QM.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Acompanhante Perfeita",
+      "year": 2025,
+      "description": "Ei, você. Cansado de deslizar para os lados? Cansado de ser ignorado? Está se sentindo como se uma parte de você estivesse faltando? O FindYourCompanion.com garante encontrar um(a) Companheiro(a) feito(a) para você.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/bjp5zXaIG5tOCtyzUzuf4lsdZub.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Demon City",
+      "year": 2025,
+      "description": "Experimente a jornada implacável de Sakata enquanto ele se transforma em um demônio para vingar sua família.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/fQ9hzto0cUuxjfzqNAiAnNJo8O7.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Chapeuzinho Vermelho - Herança de Família",
+      "year": 2022,
+      "description": "Para salvar sua cidade dos lobos, Chapeuzinho Vermelho precisa desvendar o mistério do desaparecimento de seu pai, Wolfboy, e enfrentar seus medos de encontrar seu destino.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/zxDqtu6kP1uEZAQ1a5rfcfB6k2a.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Conclave",
+      "year": 2025,
+      "description": "O Cardeal Lawrence é encarregado de executar o processo secreto de escolha do novo sumo pontífice após a morte inesperada do amado Papa. Uma vez que os líderes mais poderosos da Igreja Católica se deslocaram de todas as partes do mundo e estão trancados nos salões do Vaticano, Lawrence encontra-se no centro de uma conspiração e descobre um segredo capaz de abalar a própria fundação da Igreja.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/wWn78TMMw8yOdr5sG0Yl9v4saoA.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Estado de Consciência",
+      "year": 2023,
+      "description": "Pesadelos e realidade se tornam indistinguíveis para Stephen quando ele é forçado a tomar medicação para um distúrbio psicológico que ele não tem. Para recuperar sua sanidade e voltar à sua vida normal, ele parte para escapar da instituição em que esteve preso.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/1PT9TX36VWLGvOIfROIf03cdxsb.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "A Semente do Fruto Sagrado",
+      "year": 2024,
+      "description": "Iman, um juiz de instrução do Tribunal Revolucionário de Teerã, luta contra a desconfiança e a paranoia à medida que os protestos políticos a nível nacional se intensificam e a sua arma desaparece misteriosamente. Suspeitando do envolvimento da sua esposa Najmeh e das suas filhas Rezvan e Sana, ele impõe medidas draconianas em casa, provocando o aumento das tensões. Passo a passo, as normas sociais e as regras da vida familiar vão sendo suspensas.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/eUseiPOEMhWIOV06RQCNjB4U9Kx.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Pacificado - WEB-DL",
+      "year": 2022,
+      "description": "Tati (Cassia Gil), uma introspectiva garota de 13 anos, tenta se conectar com seu pai, Jaca (Bukassa Kabengele), depois que ele é libertado da prisão. Enquanto a Polícia Pacificadora luta para manter a ocupação nas favelas do Rio, Tati e Jaca navegam pelas forças conflitantes que ameaçam destruir sua esperança para o futuro.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/tnJvroCbINCUFViNjSMJJ7ZQLhf.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Uma Jornada na África",
+      "year": 2022,
+      "description": "Em 1914, um oficial britânico e sua caminhada missionária em terrenos do Leste Africano perigosos, perseguido por inimigos nativos com a intenção de impedi-los de chegar a um posto avançado distante.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/j5C1TcPzyXVJB6nsij3MLLqelIo.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Todos Irão Morrer",
+      "year": 2023,
+      "description": "A young woman, Naomi, finds herself alone with a tow truck driver, but instead of helping her, she becomes his next victim. This sparks a group of social justice warriors to find out who the killer is led by Ana, a part-time investigator with a mysterious past. As the team searches for the killer, they are picked off one by one until it comes down to one person versus a prolific serial killer!",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/cTKNcZ5COnafbwHNZnEqEzF4r8J.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Slime - Uma Aventura Pegajosa 2",
+      "year": 2021,
+      "description": "Esta é a divertida sequência do filme Slime  Uma Aventura Pegajosa, e agora temos a melhor e mais colorida receita de slime de todos os tempos, que é roubada da Indy por um concorrente nefasto. Como ela poderá reconquistar sua base de fãs e, claro, sua fórmula?",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/wqVybeRgb6V7MxcQvHAu4yOVWbs.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "O Comandante - Pânico nas Alturas",
+      "year": 2019,
+      "description": "Inspirado nos eventos reais do incidente que acontecem em maio de 2018, no qual um avião da companhia aérea de Sichuan Airlines sofreu um grave acidente na cabine dos pilotos durante um voo a 30.000 pés de altitude.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/fNBrFOw3GcJMGkJL6DTKgbkn0jW.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Sob a Lei do Crime",
+      "year": 2022,
+      "description": "Depois de ser dispensado do serviço militar, o sargento Barnes encontra seu caminho de volta à sociedade por meio de um político carismático com um plano secreto para eliminar um criminoso.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/tbXKTqFuMuf9cASPsBy9ts3a1Uh.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "O Ourives",
+      "year": 2022,
+      "description": "Um trio de criminosos invade a casa de campo de um ourives e sua esposa. No entanto, eles logo descobrem que os alvos escolhidos não são tão inofensivos quanto imaginavam.",
+      "poster": "https://www.themoviedb.org/movie/999278-l-orafo",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Laços de Sangue - Un petit frère",
+      "year": 2023,
+      "description": "No final da década de 1980, Rose chega da África e se muda para a periferia de Paris com seus dois filhos, Jean e Ernest. Desta instalação até os dias de hoje, o retrato de uma família comum.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/fBck0353UAGYf6qD32fJpjbYD7u.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Para Onde Vamos Quando Morremos?",
+      "year": 2020,
+      "description": "A pergunta de Bodhi Palmer, uma criança de três anos, sobre o destino após a morte, desencadeia uma jornada imaginativa para sua família. Juntos, eles exploram diferentes perspectivas e crenças sobre a morte.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/ymD4JBph5SJuUfTg6pwZsOTx6N1.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "De Volta ao Mar",
+      "year": 2024,
+      "description": "Após uma década em Londres, Rona, de 29 anos, volta para casa nas Ilhas Órcades. Sóbria, mas solitária, ela tenta apagar da memória os acontecimentos que a levaram a fazer esta viagem de recuperação. Lentamente, os mistérios daquele lugar vão invadindo o seu mundo interior e, um dia de cada vez, Rona encontra esperança e autoconfiança cercada pelos ventos fortes e pelo mar gelado. Baseado em uma história real. Mostra Panorama Berlim 2024.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/a1PVrIfWecgmzv5x799NVMssUAp.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Uma Comédia de Erros",
+      "year": 2020,
+      "description": "Após pegar dinheiro emprestado para realizar um longa-metragem que nunca saiu do papel, Patrick Bruckner possui apenas três semanas para devolver o dinheiro ou entregar o filme.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/fYqNXgomWOOFsHoJMlSNWE9W1fT.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "A Grande Jornada",
+      "year": 2024,
+      "description": "Um assistente social de uma prisão reúne uma equipe de ciclistas de adolescentes condenados e os leva em um passeio transformador de 1.600 quilômetros. Inspirado na vida de Greg Townsend e da equipe de ciclismo da Ridgeview Academy.",
+      "poster": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/AmwymHofrhlyYl0QI9SfQn4zLj3.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Umjolo - O Amor Não Tem Cura",
+      "year": 2025,
+      "description": "Depois de perder o título por expor um escândalo, uma ex-miss decide escrever uma autobiografia. Mas sua vida amorosa ainda é uma página em branco.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/2JXvvx0JSKb3uZjLi7YRjZ9WgX9.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Até Que a Vida Nos Separe",
+      "year": 2023,
+      "description": "Katia e Justine são duas mulheres que se apaixonam e resolvem ter um bebê, mas assim que Katia fica grávida, Justine decide acabar com a relação.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/9geEbp4y7wUWM6oHzqppRnghCAb.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Entre Montanhas",
+      "year": 2025,
+      "description": "Dois agentes altamente treinados são nomeados para postos em torres de guarda em lados opostos de um vasto e altamente secreto desfiladeiro, protegendo o mundo de um mal misterioso e não revelado que espreita lá dentro. Eles se unem à distância enquanto tentam permanecer vigilantes na defesa contra um inimigo invisível. Quando a ameaça cataclísmica à humanidade é revelada a eles, eles devem trabalhar juntos em um teste de sua força física e mental para manter o segredo no desfiladeiro antes que seja tarde demais.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/7zL6RxMPmpPSdU5OTdVC4dtiKcr.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "O Amor Dá Trabalho - Nacional",
+      "year": 2019,
+      "description": "Anselmo é um funcionário preguiçoso que nunca ajudou ninguém. Depois de morrer, precisa de pelo menos uma boa ação para não parar no inferno e tem que atender um pedido feito por alguém da terra. O trabalho escolhido é um pedido de uma noiva abandonada no altar feito doze anos atrás. De volta pra Terra como fantasma, Anselmo vai ter que se desdobrar pra juntar o casal e trazer o amor de volta. Uma comédia pra morrer de rir, cheia de participações especiais e repleta de efeitos visuais.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/nFYmSbOQ1MqnNmKwggTfdm0Rdjc.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "À Procura da Perfeição",
+      "year": 2023,
+      "description": "Jennifer Rogiers é uma talentosa pianista que conviveu com um terrível segredo durante toda sua vida. Quando ela tem a chance de competir em uma famosa competição de música, memórias de sua infância traumática vêm à tona.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/sNfqSx8A50NjCAETegsv0YvZEp7.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Vidas Paralelas",
+      "year": 2023,
+      "description": ", Uma Mulher que é o consultor paralelas perdeuga, tragicamento de marido e precisa superar traumas do passado para viajar de volta pelo multiverso e encontrar o caminho para para uma realidade de e -seanda anda esté vivo.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/wI87tIEyaq9Eed1Gmj4CPX1zmzf.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Histórias Invisíveis",
+      "year": 2024,
+      "description": "Cecilia e Paula são duas adolescentes sequestradas por uma rede de tráfico de pessoas. Elas são drogadas e espancadas até que assumam suas novas vidas como prostitutas; enquanto seus pais, consumidos pelo desespero, não medem esforços para encontrá-las e trazê-las de volta.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/v4YIoskn5M1ZZbDn9kaFPtmJO4Z.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Morte Antes do Casamento",
+      "year": 2025,
+      "description": "Quando Maja leva o noivo para casa, sua família tradicional precisa superar os preconceitos culturais em meio a uma crise na fazenda. Será que o amor vai vencer?",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/fQOyS5280smeEOqXJ6VQbGFospl.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Perfekta - Uma Aventura da Escola de Gênios",
+      "year": 2024,
+      "description": "Os jovens gênios Isa, Tom e Linus precisam salvar a memória de Einstein, um antigo robô da escola. Para isso, eles vão contar com a ajuda de um misterioso cientista, Édison, que vive isolado no Laboratório Perfekta, um lugar habitado por androides de última geração inspirados em grandes gênios da humanidade, como Isaac Newton e Sophie Germain. Após um incidente durante um upgrade, Einstein torna-se perigoso e assume o controle de Perfekta. Agora, os três jovens precisam enfrentar os androides e reconquistar a confiança do robô Einstein, nesta emocionante aventura de ficção científica, repleta de ciência e tecnologia.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/yyFjYrjF2VbP4F4Prcpr5EiZaWd.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "O Amor Floresce",
+      "year": 2019,
+      "description": "É primavera e tudo são flores, literalmente, no jardim comunitário administrado por Vikki George (Sara Rue). A paixão por jardinagem, herdada do pai, vai fazer com que a moça lute para salvar seu pequeno pedaço de verde no meio da cidade quando o empreendedor imobiliário Chace Devine (Jordan Bridges) anuncia que ela e todos que cultivam ali precisam se mudar, já que se trata do espaço para seu mais novo condomínio residencial.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/qEfhmSKXKK58RkfuwLpjpRJBZsU.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Reality",
+      "year": 2023,
+      "description": "Aos 25 anos, Reality Winner é presa e condenada por vazar um relatório de inteligência sobre a intromissão russa nas eleições de 2016 para o site de notícias The Intercept.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/rTEYxSDo9aJTTbM0zuMMLgzJcUJ.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Oddity - Objetos Obscuros",
+      "year": 2024,
+      "description": "Uma médium cega descobre a verdade por trás da morte de sua irmã com a ajuda de um assustador manequim de madeira.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/tVu0x6DH1wYWy1YuOfXbwy1kDW9.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "O Bastardo - Bastaard",
+      "year": 2019,
+      "description": "Dois anos após a trágica perda de seu irmão mais velho, Daan, de 17 anos, involuntariamente segue em frente quando sua família enlutada decide dar abrigo a um adolescente sem-teto chamado Radja. Mas, quando Daan testemunha como a presença desse estranho afeta profundamente sua mãe, ele começa a desvendar o passado misterioso de Radja.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/2ohNQuHOhD7Ad31HAWor3BuFJiq.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "A Substância",
+      "year": 2024,
+      "description": "Elizabeth Sparkle é uma grande atriz cuja idade a relegou a um programa fitness na TV. Ao ser demitida, ela recebe a oferta de um teste do tratamento médico que promete uma versão melhor e mais jovem de si mesma através de um processo de replicação celular.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/vWeOgzlhnP1sS23H3rzctGHB9Nb.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Os Dois Hemisférios de Lucca",
+      "year": 2025,
+      "description": "Os Dois Hemisférios de Lucca é uma adaptação literária da obra de mesmo nome da autora Bárbara Anderson. A trama gira em torno de Bárbara (Bárbara Mori), uma mãe que viaja até a Índia com seu marido Andrés (Juan Pablo Medina), e a sua família em busca de um novo tratamento para seu filho, Lucca (Julián Tello), seu primogênito que sofre com paralisia cerebral. Chegando no país, Bárbara coloca a vida de seu filho nas mãos de Rajah Kumar (Danish Husain), um médico e cientista que vai transformar a vida da família. Através de uma terapia futurista e inovadora chamada Cytotron, o doutor Kumar é capaz de apoiar Lucca, seguindo assim a sua promessa que fez desde o princípio: apoiar o garoto, mesmo que isso significasse ir para o fim.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/u226mX8Fr6eHpRnB0SBvZbWgSrJ.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "O Homem de Lugar Nenhum",
+      "year": 2023,
+      "description": "Em 1960 foi realizado o primeiro voo tripulado ao espaço, mas a nave sofreu um acidente antes de entrar em órbita. O cosmonauta Kim Kirillov acorda em Moscou no ano de 2023, sem conseguir se lembrar de sua vida passada. Sua única memória é a imagem de uma misteriosa garota do passado.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/6TpnjpnFcQDNSBFp6TxBIl6Bnht.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Reagan",
+      "year": 2024,
+      "description": "A vida do futuro 30º presidente dos Estados Unidos ainda jovem, desde o tempo em que seguiu carreira artística em Teatro e Cinema e assumiu a presidência do Sindicato dos Atores dos Estados Unidos, contada do ponto de vista de um agente da KGB que o espionou durante anos.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/o21NB4f5fNk1dtrRlyAmA0C0cb3.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Casamentos Cruzados",
+      "year": 2025,
+      "description": "Uma mulher que planeja o casamento da irmã e o pai de uma jovem noiva descobrem que estão com reserva duplicada para os casamentos em um resort remoto. Quando ambas as partes decidem partilhar o pequeno local, o caos se instala.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/pXOC1Z6npX2V5xgOCOzMtCHf0Hx.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "As Polacas",
+      "year": 2024,
+      "description": "Em 1917, Rebeca foge da fome e da guerra na Polônia e chega ao Brasil para reencontrar o marido e iniciar uma nova vida. No Rio de Janeiro, ela descobre que seu marido faleceu e acaba refém de uma grande rede de prostituição e tráfico de mulheres, chefiada pelo impiedoso Tzvi.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/w7fiCtiVtteWBeVE8XXUK05SVne.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "A Linha da Extinção",
+      "year": 2024,
+      "description": "Um Pai Pai Solteiro e Duas Mulheres Aventuram-Se Ao Enfrentary Criaturas Monstruosas Para Salvar A Vida de Um Menino.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/aJRTe0xSIMuvf8USGHHbouF8V7i.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Caindo na Real",
+      "year": 2024,
+      "description": "A história se passa em um Brasil imaginário, onde Tina, uma chapeira carioca, tem sua vida virada de cabeça para baixo ao descobrir que é a herdeira do trono em uma monarquia. Ela se vê no centro de uma trama cheia de artimanhas pelo Conselheiro Real, Alaor, que busca desbancá-la a qualquer custo. Enquanto lida com seus com sua paixão secreta pelo charmoso Barão, um taxista que faz seu coração acelerar mais rápido, Tina se vê envolvida em um emaranhado de acontecimentos com a família Real.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/hehMCI5bjzWEN0xsFVE0rAVBt5T.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Babygirl",
+      "year": 2024,
+      "description": "Uma executiva poderosa coloca a carreira e família em risco quando começa um caso tórrido com seu estagiário muito mais jovem.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/47AmmkY5Vo4ODLueXUksEin0aWw.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "O Demônio de Gelo",
+      "year": 2021,
+      "description": "O pai de Ksyusha, que desapareceu quando ela ainda era uma criança, retorna à sua antiga casa em estado de coma. Mas a sua chegada desorganiza a vida da família e traz consigo uma série de eventos sobrenaturais.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/iu3GETtRsKMyN2sDJdqLJjwNNVP.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Raven - O Nome da Vingança",
+      "year": 2022,
+      "description": "Ao realizar um trabalho que não sai como o esperado, Raven acaba na prisão. Após ser libertado alguns anos depois, ele possui apenas uma ideia em mente: Se vingar de seus antigos parceiros que o colocaram lá dentro.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/lTrXeXEUvMsLVIQpZV5UJGxgD2Z.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Star Trek - Seção 31",
+      "year": 2025,
+      "description": "Em Star Trek: Seção 31, a Imperatriz Phillipa Georgiou (Michelle Yeoh) retorna à ativa ao ser recrutada pela Seção 31, uma divisão secreta da Frota Estelar especializada em missões de espionagem e proteção da Federação Unida dos Planetas. Enfrentando uma ameaça inédita que coloca milhares de vidas em risco, Phillipa se lança em uma perigosa jornada pela galáxia. Além dos desafios impostos pela missão, ela é obrigada a confrontar os pecados de seu passado, revendo escolhas que marcaram sua trajetória. A narrativa combina ação, intriga e redenção, explorando o lado sombrio das operações secretas da Frota Estelar enquanto aprofunda a complexidade da protagonista. A Imperatriz, conhecida por sua determinação e habilidade estratégica, precisará unir forças com novos aliados para enfrentar desafios que testam não apenas sua lealdade à Federação, mas também sua capacidade de lidar com as consequências de seus atos.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/4lwW5zp8o2WZqynQtRs7jXDpQh1.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Farol da Ilusão",
+      "year": 2025,
+      "description": "De Volta a Ação é um longa dirigido por Seth Gordon, roteirizado por Brendan O’Brien e estrelado por Cameron Diaz e Jamie Foxx. O filme vai retratar os ex-espiões da CIA, Emily (Cameron Diaz) e Matt (Jamie Foxx), que deixaram as suas carreiras para trás com a intenção de construírem uma família juntos, longe dos riscos que a espionagem podem apresentar. Entretanto, muitos anos depois de terem largado seus trabalhos, eles serão obrigados a voltar para o mundo da espionagem. Essa volta repentina deve-se ao fato das suas identidades secretas terem sido expostas. De Volta à Ação é uma celebração de amizade entre Cameron e Jamie, uma vez que eles já realizaram outros trabalhos juntos como Um Domingo Qualquer e Annie.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/6ZPlnGO4jWvBtIoG9hRlqyfg8g8.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Canina",
+      "year": null,
+      "description": "Uma mulher lançada à rotina de ficar em casa criando uma criança no subúrbio lentamente abraça o poder selvagem profundamente enraizado na maternidade, conforme ela se torna cada vez mais consciente dos sinais bizarros e inegáveis ??de que ela pode estar se transformando em um cachorro.",
+      "poster": "https://media.themoviedb.org/t/p/w500/lCzdJ5HQB85eRMyzFsh5Iy4eqlv.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "OP 01  1080p"
+    },
+    {
+      "title": "Criaturas do Farol",
+      "year": 2024,
+      "description": "Uma tempestade faz com que uma jovem marinheira naufrague em uma ilha remota, onde ela é resgatada pelo único habitante, o faroleiro.",
+      "poster": "https://www.themoviedb.org/movie/1276035-criaturas-do-farol",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Sonic 3 - O Filme",
+      "year": 2024,
+      "description": "Sonic, Knuckles e Tails se reúnem contra um novo e poderoso adversário, Shadow, um vilão misterioso com poderes diferentes de tudo que eles já enfrentaram antes. Com suas habilidades superadas em todos os sentidos, a Equipe Sonic deve buscar uma aliança improvável na esperança de parar Shadow e proteger o planeta.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/8HzA55GCjRTEC2YhPGna8Lc8qHo.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Em Busca do Cálice Sagrado",
+      "year": 2023,
+      "description": "Em 1943, um grupo de voluntários finlandeses, liderados pelo sargento Myllykoski, se juntam a uma tropa de soldados da SS, que estão procurando por um cálice sagrado.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/e159ohLC6mChx8HCaWbQNAbzkqY.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Niobe",
+      "year": 2023,
+      "description": "Rita e um grupo de outras seis garotas de programa de luxo são contratadas por um importante empresário para entreter os convidados de uma importante reunião de negócios durante uma noite. O objetivo da reunião  que conta com a presença de um presidente da república e seu principal general  é subornar um deputado da oposição para conseguir a liberação de uma exploração de minerais em território indígena. Porém, o plano não sai como esperado e, no fim das contas, o futuro do país pode estar nas mãos das sete garotas de programa.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/buNVzd4JHXzgxW0K5oTHNxYy0Ph.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "O Jogo do Assassino",
+      "year": 2025,
+      "description": "A história do filme apresenta Joe Flood (Bautista), um notório assassino que, após receber a notícia que está com uma doença terminal, toma a decisão de organizar sua própria morte. No entanto, o seu plano ganha rumos inesperados quando os assassinos que ele contratou para cumprir o contrato também têm como alvo a sua ex-namorada (Boutella). Com isso, Joe deve enfrentar um exército de assassinos e tentar reconquistar o amor da sua vida antes que o tempo acabe.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/pPmxLP2eMJEFiY7KZ3WkSFQ1b20.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Eu Sou Charlie Walker",
+      "year": 2023,
+      "description": "Charlie Walker é um homem desesperado, armado apenas com seu charme e inteligência, assume uma corporação racista de São Francisco em 1971.Baseado numa história real.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/v7Akbcp967vnkNUoiVkqLm1baKY.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "A Vigia",
+      "year": 2023,
+      "description": "Após fugir de um relacionamento abusivo, Kate consegue um trabalho como vigia florestal no norte dos Estados Unidos. Ela espera encontrar um pouco de paz para recomeçar a vida, mas é assombrada pelo seu passado.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/75DKEGYtjqlBWVXcb3ProMzffSN.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "A Contadora de Filmes",
+      "year": 2023,
+      "description": "Uma menina pobre, que vive no Chile com seu pai e quatro irmãos em cadeira de rodas, tenta economizar dinheiro suficiente para assistir a filmes no cinema local.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/tzCEvNVmVZVoCtVD2HnEQw6IEGn.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Comboio 48 - A Última Resistência - Koridor bessmertiya",
+      "year": 2019,
+      "description": "A estudante de Leninegrado, Masha Yablochkina, depois de um violento inverno de 1941-1942, chega a ferrovia esperando sobreviver e ganhar força. De lá, a menina é enviada para a construção da rodovia de Shlisselburg, que liga a cidade ao continente e está à vista da artilharia alemã. Assim, a heroína entra na 48ª coluna de locomotivas da reserva especial NKPS, que, ao custo do risco letal, terá que entregar 75% de toda a carga e equipamento militar para Leningrad",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/xSF9LRDRoie7YNwMT1yAfJ8IWNz.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Jardim dos Girassóis",
+      "year": 2024,
+      "description": "Roberto e Carol formam um casal amoroso, com filhos estudiosos e inteligentes. Ela tem uma personalidade amiga e funciona como um suporte para a família. Ele está num momento de grande ascendência profissional. No entanto, após uma série de acontecimentos, a vida da família vira de cabeça para baixo.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yWtaXMfgKxvZm62YPR0m3qgLPfS.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "SEALS - Operação Resgate",
+      "year": 2023,
+      "description": "Durante uma missão de resgate para evacuar um grupo de missionários, durante a retirada militar dos EUA em 2021 do Afeganistão, um helicóptero da equipe SEAL é abatido por um grupo de insurgentes. Um dos operadores da equipe SEAL, Master Chief Richard Mirko, é jogado dos destroços, sobrevivendo milagrosamente ao acidente. Com o resto de sua equipe morta em ação, Mirko continua sua busca pelos missionários, mas encontra seu veículo emboscado e o único sobrevivente: uma criança traumatizada de 5 anos. Mirko deve agora guiar a criança com segurança, através do confronto com insurgentes, e sobrevivendo ao brutal deserto afegão.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/oIHgYhUsdUQV1KOw4n58F4aUhFt.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Respire",
+      "year": 2025,
+      "description": "Situado em um futuro próximo, onde o suprimento de ar é escasso, o enredo segue uma mãe e filha que são forçadas a lutar por sua sobrevivência quando dois estranhos chegam desesperados por um refúgio oxigenado.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/e7sPoVq19QGGLwe5O10RupMHQc1.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Tudo Por Um Pop Star 2",
+      "year": 2025,
+      "description": "Três amigas planejam uma viagem para celebrar seus 15 anos de amizade e para assistir a um show de um velho colega que se tornou um dos principais pop stars do Brasil.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/jgLQlvInbiHp58QUpdMVc0FBjcW.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Oficina do Diabo - Nacional",
+      "year": 2025,
+      "description": "E se aquela voz em sua mente te levando para o lado obscuro realmente tivesse um dono...e se na verdade ele fosse um funcionário de uma empresa, ou melhor, uma oficina... a oficina do diabo?",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/33ugYq5qlJTAiXkfIhdUSxQUTT8.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Red Rooms - Obsessão Doentia",
+      "year": 2023,
+      "description": "O caso de alto perfil do serial killer Ludovic Chevalier acaba de ir a julgamento, e Kelly-Anne está obcecada. Quando a realidade se confunde com suas fantasias mórbidas, ela segue um caminho sombrio em busca da peça final do quebra-cabeça: o vídeo desaparecido de uma garota de 13 anos assassinada, com quem Kelly-Anne tem uma semelhança perturbadora.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/7OGEqw9mEAn7SwexqQ1OAAH9T7w.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Quem Quer Ser Famoso?",
+      "year": 2022,
+      "description": "Uma aspirante a atriz responde a um misterioso anúncio. Ela é contratada, mas acaba envolvida na delirante fantasia de vingança de seu novo chefe.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/vp53PyQsykRhJeSbEDuM5PdhU3k.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Entre Irmãs - Los buenos modales",
+      "year": 2023,
+      "description": "Duas avós não se falam há vinte anos, e se reencontrarão quando, por acaso, seus netos se conhecerem.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/qtWebugZ2OSNp451nECMuZuvS3B.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Motel Melati",
+      "year": 2023,
+      "description": "Procurando abrigo em uma parte esquecida da cidade, viajantes ficam presos dentro de um motel amaldiçoado  enquanto sua anfitriã os força a enfrentar seus terrores mais sombrios.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/7A3FqDq22gx9Z9TuWFPGh5qqEcu.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Nosferatu",
+      "year": 2025,
+      "description": "Um conto gótico de obsessão entre uma jovem assombrada na Alemanha do século XIX e o antigo vampiro da Transilvânia que a persegue, trazendo consigo um horror incalculável.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/fbkUfzmVzEBFSt6p7VigknREIJT.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Quando a Morte Sussurra 2",
+      "year": 2024,
+      "description": "Nas profundezas da escuridão, a vingança não tem limites.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/9G0czCAjBlZvrfmNhTPRyA14Ktj.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "A Ordem",
+      "year": 2024,
+      "description": "The Order, longa do diretor Justin Kurzel e produção presente no Festival Internacional de Toronto 2024, vai apresentar a trama que se passa em 1983, onde uma série de crimes violentos, incluindo assaltos a bancos, operações de falsificação e roubos de carros blindados, aterrorizou o noroeste do Pacífico. Enquanto os agentes da lei buscavam respostas, um agente do FBI em Coeur d’Alene, Idaho (Jude Law), suspeitou que os crimes eram obra de um grupo de terroristas domésticos, não de criminosos comuns. O filme, escrito por Zach Baylin e baseado no livro The Silent Brotherhood de Kevin Flynn e Gary Gerhardt, narra a história desse grupo supremacista branco liderado por um líder carismático, planejando uma guerra contra o governo federal dos EUA.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/r6ldDGMzdWErm3auCuKSmsXL125.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Missão Extrema",
+      "year": 2021,
+      "description": "Bangladesh está sob a ameaça de um inimigo invisível. Nabid Al Shahriar é o policial da unidade de elite da Polícia Metropolitana da capital, responsável por localizar e acabar com um grupo terrorista antes que seja tarde demais.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/nTvoq0oIlIQwid6US86u1zOGkcZ.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Peça por Peça - Uma História de Pharrell Williams",
+      "year": 2024,
+      "description": "Os blocos LEGO contam a história de vida do cantor, compositor e produtor musical Pharrell Williams, desde sua infância na Virgínia até seu sucesso nas indústrias da música e da moda.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/qVyWW9HhYXui6SjF4cTDUPDYCIz.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Luta pela Sobrevivência",
+      "year": 2022,
+      "description": "Quatro campistas de fim de semana, incluindo dois policiais, são caçados por diferentes facções de uma milícia armada depois de testemunhar uma execução",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/x6JEK2rD0emPpk1N0MxoNuyoVdp.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Demônios do Passado",
+      "year": 2023,
+      "description": "Após a morte de seu pai, Micaela decide passar uns dias na casa de campo de sua família para tentar recuperar a relação perdida com sua filha. Mas quando começa a lembrar de episódios de sua infância, ela é obrigada a enfrentar antigos demônios de seu passado.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/sNd82Y9zto0OIgpghOOe15g8Pbi.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Um Culto das Trevas",
+      "year": 2024,
+      "description": "Will se tornou um homem amargurado após perder a esposa em um acidente de carro. Mas ele precisará superar o luto se quiser enfrentar um sinistro culto que tomou conta da cidade que ele e sua esposa tanto amavam.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/8XyNfKA1QWrjRWTHnIiTsa00cpz.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Avicii - Meu Último Show",
+      "year": 2024,
+      "description": "O documentário mostra o último show feito pelo DJ sueco, Tim Bergling, mais conhecido como Avicii, em agosto de 2016. Uma performance icônica em Ibiza e seus últimos momentos como músico antes de falecer tão precocemente em abril de 2018.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/cCgFqv1RZXqpNbj6kH9TkC4cQDX.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Tesouro",
+      "year": 2024,
+      "description": "Nos anos 1990, Ruth, uma jornalista musical americana, e seu pai Edek, um teimoso sobrevivente do Holocausto, embarcam numa viagem para a terra natal dele: a Polônia. Ruth está ansiosa para entender a história da família, mas Edek tem suas próprias prioridades. Entre choques culturais e desavenças, a jornada dos nova-iorquinos pela Polônia pós-socialista é um exemplo poderoso de como a reconexão com os parentes e o passado pode ser um tesouro inesperado.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/fnIVLWwSMBBItgExsGi9QqQbG6v.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Inexplicável",
+      "year": 2024,
+      "description": "Baseado em uma história real. Quando um menino de 8 anos apaixonado por futebol é diagnosticado com uma doença gravíssima, sua família precisa de força e fé para encarar as complicações da doença.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/yiWrMyJA6yYo147S9Xu7Cy4ghEI.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "O Amor Floresce",
+      "year": 2019,
+      "description": "É primavera e tudo são flores, literalmente, no jardim comunitário administrado por Vikki George (Sara Rue). A paixão por jardinagem, herdada do pai, vai fazer com que a moça lute para salvar seu pequeno pedaço de verde no meio da cidade quando o empreendedor imobiliário Chace Devine (Jordan Bridges) anuncia que ela e todos que cultivam ali precisam se mudar, já que se trata do espaço para seu mais novo condomínio residencial.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/qEfhmSKXKK58RkfuwLpjpRJBZsU.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Reality",
+      "year": 2023,
+      "description": "Aos 25 anos, Reality Winner é presa e condenada por vazar um relatório de inteligência sobre a intromissão russa nas eleições de 2016 para o site de notícias The Intercept.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/rTEYxSDo9aJTTbM0zuMMLgzJcUJ.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Oddity - Objetos Obscuros",
+      "year": 2024,
+      "description": "Uma médium cega descobre a verdade por trás da morte de sua irmã com a ajuda de um assustador manequim de madeira.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/tVu0x6DH1wYWy1YuOfXbwy1kDW9.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "O Auto da Compadecida 2",
+      "year": 2024,
+      "description": "O filme mostrará o reencontro de João Grilo e Chicó após 25 anos. João Grilo retorna à Taperoá e percebe que virou uma lenda na região, após Chicó passar anos contando a história de sua ressurreição. Com isso, Grilo, usando toda sua esperteza e astúcia, tentará tirar proveito de sua fama.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/d4co6mPX84RIIA9qKCHNjJj0qrm.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "O Trono Dourado",
+      "year": null,
+      "description": "Século quinze. Nas vastas extensões da Eurásia por vários séculos, os descendentes do grande Genghis Khan criaram os seus próprios e esmagaram os estados alienígenas. Um deles é o lendário Abulkhair Shaibani, que usurpou o poder na Horda Branca. Os dois herdeiros legítimos do trono, Kerei e Zhanibek, chamam a parte das tribos nômades para deixar o governante duro. Depois de migrar do extremo oeste de Desht-i-Kipchak para o Mogolistão em Zhetysu, eles revivem seu antigo shanyrak Ak Orda, o Khanate do Cazaquistão. O primeiro cã elegeu um descendente direto de Jochi e Urus Khan, o sultão Kerey. Aqui está, a terra prometida quando você pode viver em paz e livremente. Mas os inimigos estão tentando estrangular o frágil canato cazaque, mesmo nas batalhas sangrentas e no berço, duras provações, a amargura das perdas e a alegria das vitórias os aguardam.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/fpwVoYZijWXO33eqrJv5c5MJaRn.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "A Confissão - La fille dans les bois",
+      "year": null,
+      "description": "Uma mulher determinada a usar a confissão de sua irmã no leito de morte, exonerando de culpa um homem inocente, faz com que ela fique em perigo.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/qlEiLLjRsZdW6txwBV9Mlf7cy1r.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Kraven, o Caçador",
+      "year": null,
+      "description": "A complexa relação de Kraven com o pai, Nikolai Kravinoff, o leva a uma jornada de vingança com consequências brutais, o motivando a se tornar um dos maiores e mais temidos caçadores do mundo.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/pWvQsP9o1MQ4vQNjpL9QeYFXKOs.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "A Última Vingança",
+      "year": 2024,
+      "description": "Vítimas de um golpe cruel, Ann e seu marido são roubados e aprisionados em um asilo sombrio. Com a ajuda da neta, Ann enfrenta uma luta brutal por vingança contra aqueles que destruíram sua vida.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/6Wu1qTAQ9vHKOV7UqT6ukGrQf1b.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Vítimas do Dia",
+      "year": 2025,
+      "description": "Elder e Daiane são um casal em meio a uma guerra urbana: enquanto ele luta para sobreviver, o primeiro filho deles está prestes a nascer.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/pBeg7UpgNllgs8FI7iMBbp7hdSQ.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Cabrini",
+      "year": 2024,
+      "description": "Depois de testemunhar a doença e a pobreza nos bairros miseráveis de Nova Iorque, a imigrante italiana Francesca Cabrini embarca em uma ousada viagem para persuadir o hostil presidente da câmara a fornecer alojamento e cuidados de saúde a centenas de crianças órfãs.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/rBiHiN8W4BqMFrDozemzkof7GmF.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Missão Porto Seguro",
+      "year": 2025,
+      "description": "Denise é uma policial desajeitada de 30 anos que se infiltra em uma viagem de formatura de colégio em busca de informações que a ajudem a desmantelar uma organização criminosa. Depois de ser afastada da operação pelo delegado responsável, que é seu próprio pai, Denise decide arriscar seu emprego e embarcar para Porto Seguro, Bahia, onde vai se passar por uma adolescente para conseguir informações privilegiadas. Careta e cheia de amarras sociais, ela terá a ajuda de uma aliada improvável, Babi, que tem a mesma idade dela, mas, no fundo, nunca cresceu. Ao mesmo tempo que aprofunda a investigação, Denise vive uma adolescência tardia cheia de emoções.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/dcoc4C57lCpAzBr2qojFjRCKO9E.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Ad Vitam",
+      "year": 2025,
+      "description": "Quando sua esposa é sequestrada, a busca de um homem por respostas revela um escândalo explosivo ligado ao seu próprio passado turbulento, levando-o a uma caçada mortal.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/8qJfjFhNwpTONNAoE6gUSx2yGpg.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Ciclo",
+      "year": 2022,
+      "description": "Um filme de ficção científica e suspense que nos apresenta um futuro assustadoramente possível, onde as coisas saíram ainda mais do controle e o que seria apenas uma quarentena virou o novo e totalmente bizarro normal.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/oK8JLWKQbiGRRors1Ds4EDeyaHp.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "O Pequeno Tom",
+      "year": 2022,
+      "description": "Tom é um garoto de onze anos que mora com sua mãe em um trailer no meio da floresta. Os dois sempre se ajudam e parecem demonstrar um inabalável otimismo, mas a chegada de um ex-presidiário mudará a relação entre eles.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/d5MDAU6tjHGMWWU971r4v4Kjm1E.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Operação de Risco",
+      "year": 2023,
+      "description": "Um grupo de mercenários é contratado para derrubar uma fortaleza neonazista no coração do Texas, apenas para descobrir que eles estão protegendo códigos nucleares que podem desencadear a Terceira Guerra Mundial.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/jc9EMUNJaQHXDJVfHxKjuvfiWrB.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "O Anel Amaldiçoado",
+      "year": 2023,
+      "description": "Herma é uma mulher grávida, que é possuída por um misterioso anel. À medida em que seu corpo se transforma e sua mente começa a se deteriorar, ela precisa encontrar uma maneira de salvar sua vida e a do bebê que está esperando.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/7HKgVo8jBISdqxtn4h9CnEgFrKh.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Master Kid - O Despertar de um Herói",
+      "year": 2022,
+      "description": "Leon é um garoto que sonha em ser um herói, mas apesar de sua boa intenção, suas ações sempre causam problemas para o seu vilarejo. Após um perigoso encontro, ele descobre que é a reencarnação de um lendário herói do passado.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/pxl3gQG1BebbA8GhcJXAvwuipgj.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "Crazy Racing",
+      "year": 2022,
+      "description": "Sloan é um adolescente apaixonado por carros que após sofrer um acidente, acaba adquirindo a habilidade de prever o futuro.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/i99kjvBWWwH1qtUDt3TBIFz6gAz.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
+    },
+    {
+      "title": "And Mrs",
+      "year": 2024,
+      "description": "Composto por um elenco de estrelas como Aisling Bea, Billie Lourd e Colin Hanks AND MRS é uma hilária e emocionante comédia ácida sobre o drama da noiva Gemma, que perde seu noivo Nathan em uma morte súbita antes do seu casamento, com o apoio da irmã sem-regras do seu noivo e por uma série de motivos, emocionalmente complexos, Gemma decide seguir com a decisão do casamento e casar com ele de qualquer jeito, mas primeiro ela deve enfrentar a opinião pública, a justiça e o julgamento da propria família.",
+      "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/d0EsPcoUhQ4YVPk4Kn6vhXTiTGU.jpg",
+      "trailer": "",
+      "search": "",
+      "magnet": "",
+      "provider": "Op 1 1080"
     }
   ]
 }
